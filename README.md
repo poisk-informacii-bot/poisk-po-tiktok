@@ -4,7 +4,6 @@
 
 ## [Открыть сайт и перейти в Telegram-бота](https://sher-lock.site/?utm_source=github&utm_medium=referral&utm_campaign=tiktok-guide&utm_content=top)
 
-Сервис платный, пробных проверок нет. Актуальная стоимость видна перед использованием.
 
 ## Какой идентификатор выбрать
 
@@ -20,13 +19,16 @@
 1. Скопируйте username или ссылку без лишних параметров.
 2. Перейдите с сайта в Telegram-бота.
 3. Выберите поиск по TikTok.
-4. Проверьте стоимость и пополните баланс.
-5. Введите идентификатор и сопоставьте результат.
+4. Введите идентификатор и сопоставьте результат.
 
 ## [Перейти в Telegram-бота и проверить TikTok](https://sher-lock.site/?utm_source=github&utm_medium=referral&utm_campaign=tiktok-guide&utm_content=middle)
 
 Проверяйте совпадение по нескольким признакам. Старое имя профиля, удалённый аккаунт или похожий ник могут привести к неоднозначному результату.
 
-## [Запустить платную проверку TikTok](https://sher-lock.site/?utm_source=github&utm_medium=referral&utm_campaign=tiktok-guide&utm_content=bottom)
+## [Выполнить проверку TikTok](https://sher-lock.site/?utm_source=github&utm_medium=referral&utm_campaign=tiktok-guide&utm_content=bottom)
 
 Проверяйте только собственные данные или данные с подтверждённым согласием.
+
+
+
+
